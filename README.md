@@ -108,4 +108,5 @@ EDA validated **why Random Forest performs well** on this dataset.
 
 ---
 
-
+Disclaimer:
+This project is for educational and decision-support purposes only. It is not intended to provide medical diagnosis or treatment advice. Predictions should always be reviewed by qualified healthcare professionals.

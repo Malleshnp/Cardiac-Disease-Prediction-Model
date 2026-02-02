@@ -30,6 +30,11 @@ The goal is to **accurately identify patients at risk** while minimizing missed 
 
 ---
 
+Pipeline:
+Data → EDA → Feature Engineering → Random Forest → Evaluation → Decision Support
+
+---
+
 ## 📊 Model Performance (Final)
 
 | Metric                  | Score     |
